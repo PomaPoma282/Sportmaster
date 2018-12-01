@@ -9,5 +9,8 @@
         <module name="Sportmaster" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Sportmaster" target="11" />
+    </bytecodeTargetLevel>
   </component>
 </project>
