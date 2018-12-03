@@ -21,5 +21,6 @@ public class BonusService {
 
         return purchaseAmount * bonusGoldCard / 1_000;
 
+
     }
 }
